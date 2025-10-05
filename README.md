@@ -75,5 +75,18 @@ Here’s a quick look at the working of the AI Attendance System 👇
 ```csv
 Name,Time,Date  
 Anuj Singh,22:42:59,2025-10-04  
-Anuj Singh,22:43:00,2025-10-04  
+Anuj Singh,22:43:00,2025-10-04
+
+---
+
+## 👨‍💻 Author
+
+**Anuj Singh**  
+💡 AI & Software Developer | Passionate about Building Smart & Scalable Tech Solutions  
+
+📫 **Reach Me At:**  
+- 🔗 [GitHub](https://github.com/Anuj-singh-codehub-official)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anuj-singh-rajput)  
+
+⭐ *If you find this project helpful, please consider giving it a star!* ⭐
 
