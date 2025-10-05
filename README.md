@@ -69,15 +69,13 @@ Watch the project in action here 👇
 
 Here’s a quick look at the working of the AI Attendance System 👇  
 
-![App Screenshot](demo-screenshot.png)
+![App Screenshot] [AI Attendance System.pdf](https://github.com/user-attachments/files/22710956/AI.Attendance.System.pdf)
 
 📊 **Sample Attendance Data:**
 ```csv
 Name,Time,Date  
 Anuj Singh,22:42:59,2025-10-04  
 Anuj Singh,22:43:00,2025-10-04
-
----
 
 ## 👨‍💻 Author
 
@@ -90,3 +88,4 @@ Anuj Singh,22:43:00,2025-10-04
 
 ⭐ *If you find this project helpful, please consider giving it a star!* ⭐
 
+---
