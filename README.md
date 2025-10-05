@@ -31,7 +31,8 @@ This project detects faces in real-time using your webcam and automatically mark
 
 ---
 
-## 🔹 How to Run  
+## 🧭 How to Run
+
 ```bash
 # Clone this repository
 git clone https://github.com/Anuj-singh-codehub-official/AI-Attendance-System-Using-Face-Recognition.git
@@ -45,7 +46,7 @@ pip install -r requirements.txt
 # Run the app
 streamlit run "AI Attendance.py"
 
----
+ ---
 
 ## 🔹 Project Stucture
 ├── AI Attendance.py     # Main application file
