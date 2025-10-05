@@ -46,7 +46,9 @@ pip install -r requirements.txt
 # Run the app
 streamlit run "AI Attendance.py"
 
-# 📁 Project Structure
+---
+
+## 📁 Project Structure
 ├── AI Attendance.py      # Main application file
 ├── registered_faces/     # Folder containing saved face images
 ├── attendance.csv        # Attendance records
