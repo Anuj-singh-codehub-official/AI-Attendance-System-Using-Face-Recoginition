@@ -49,6 +49,7 @@ streamlit run "AI Attendance.py"
 ---
 
 ## 🔹 Project Structure
+
 ├── AI Attendance.py     # Main application file
 ├── registered_faces/    # Folder containing saved face images
 ├── attendance.csv       # Attendance records
