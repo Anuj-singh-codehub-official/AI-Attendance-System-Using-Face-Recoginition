@@ -46,6 +46,38 @@ pip install -r requirements.txt
 # Run the app
 streamlit run "AI Attendance.py"
 
+---
+
+## 🔹 Project Structure
+├── AI Attendance.py     # Main application file
+├── registered_faces/    # Folder containing saved face images
+├── attendance.csv       # Attendance records
+├── requirements.txt     # Dependencies
+├── demo-screenshot.png  # App screenshot (upload to repo)
+├── README.md            # Documentation
+
+---
+
+## 🎬 Video Demo
+
+Watch the project in action here 👇  
+🎥 [Click to Watch Demo Video](https://drive.google.com/file/d/1xdqlf48wyvGA5n2H6wLhF3fLGuvgA6Em/view?usp=drive_link)
+
+---
+
+## 🖼️ Demo / Screenshot
+
+Here’s a quick look at the working of the AI Attendance System 👇  
+
+![App Screenshot](demo-screenshot.png)
+
+📊 **Sample Attendance Data:**
+```csv
+Name,Time,Date
+Anuj Singh,22:42:59,2025-10-04
+Anuj Singh,22:43:00,2025-10-04
+
+
 
 
 
