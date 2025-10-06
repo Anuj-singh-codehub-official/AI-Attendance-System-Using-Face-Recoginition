@@ -45,7 +45,6 @@ pip install -r requirements.txt
 
 📄 [View requirements.txt](https://github.com/Anuj-singh-codehub-official/AI-Attendance-System-Using-Face-Recognition/blob/main/requirements.txt)
 
-
 # Run the app
 streamlit run "AI Attendance.py"
 
