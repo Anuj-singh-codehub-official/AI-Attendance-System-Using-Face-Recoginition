@@ -65,7 +65,11 @@ streamlit run "AI Attendance.py"
 Watch the project in action here 👇  
 🎥 [Click to Watch Demo Video](https://drive.google.com/file/d/1xdqlf48wyvGA5n2H6wLhF3fLGuvgA6Em/view?usp=drive_link)
 
----
+# 🚀 AI Attendance System
+
+A smart AI-based attendance tracking system using face recognition.
+
+🔗 **Project Link:** [Click Here to View on GitHub Pages](http://localhost:8501/)
 
 ## 🖼️ Demo / Screenshot
 
@@ -78,6 +82,8 @@ Here’s a quick look at the working of the AI Attendance System 👇
 Name,Time,Date  
 Anuj Singh,22:42:59,2025-10-04  
 Anuj Singh,22:43:00,2025-10-04
+
+---
 
 ## 👨‍💻 Author
 
